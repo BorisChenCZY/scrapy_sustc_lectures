@@ -1,0 +1,9 @@
+/dbs
+/eggs
+/logs
+twistd.pid
+/tutorial/build
+/tutorial/*.egg
+*.pyc
+*.png
+*.jpg
